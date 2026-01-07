@@ -70,21 +70,6 @@ Organizations aim to optimize marketing efforts by targeting customers with a hi
 
 ---
 
-## Project Value  
-
-### GitHub  
-- Clean, well-structured ML workflow  
-- Beginner-to-intermediate level business analytics project  
-
-### Recruiter Review  
-- Demonstrates strong fundamentals in data analysis and machine learning  
-- Clear business impact with measurable results  
-
-### LinkedIn Sharing  
-- Easy-to-explain real-world use case  
-- Metrics-driven outcome (**91.25% accuracy**)  
-
----
 
 ## Author  
 **Swapnil Iwarkar**
